@@ -1,0 +1,21 @@
+.calculator {
+    margin: auto;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    border-radius: 1rem;
+  }
+  
